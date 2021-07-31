@@ -1,4 +1,4 @@
-# mogo
+# MoGo
 Макет сайта MoGo (https://freebiesbug.com/psd-freebies/mogo-free-one-page-psd-template/)
 
 Всем привет. Это одна из моих работ для портфолио.
